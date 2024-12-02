@@ -1,0 +1,23 @@
+
+D:\cancer-main
+├── app
+        main.py
+├── assets
+        style.css
+├── data
+        data.csv
+├── model
+        main.py
+        model.pkl
+        scaler.pkl
+├── README.md
+├── requirements.txt
+├── See
+├── venv
+├── [11
+└── [33
+
+directory: 5 file: 6
+
+
+[2K[1G
